@@ -1,6 +1,6 @@
-# bg3mdo-mmdvm-fw updater
+# mmdvm-fw updater
 
-1.Current Version; 1.4.17
+1.Current Version; 1.5.2
 
 2.You might need to adjust TRX offse under MMDVMhost ini/expert mode in Pi-star.
 
